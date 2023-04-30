@@ -1,7 +1,7 @@
 # Contributing to PyScript
 
 Thank you for wanting to contribute to the PyScript project!
-
+Nothing to see here
 ## Table of contents
 
 -   [Contributing to PyScript](#contributing-to-pyscript)
