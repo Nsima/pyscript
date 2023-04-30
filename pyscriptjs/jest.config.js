@@ -1,4 +1,5 @@
 //jest.config.js
+// Jest test
 module.exports = {
     preset: 'ts-jest',
     setupFilesAfterEnv: ['./tests/unit/setup.ts'],
