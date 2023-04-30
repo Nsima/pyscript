@@ -1,7 +1,7 @@
 from _pyscript_js import define_custom_element
 from js import console
 from pyodide.ffi import create_proxy
-
+#remember to test with random import
 
 class Plugin:
     def __init__(self, name=None):
