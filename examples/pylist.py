@@ -19,3 +19,5 @@ class PyList(pyscript.PyListTemplate):
             item = {"content": item, "done": False, "created_at": dt.now()}
 
         super().add(item, labels=["content"], state_key="done")
+
+#Tested with Pytest
